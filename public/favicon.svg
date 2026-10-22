@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Horizon Properties">
+  <rect width="32" height="32" rx="4" fill="#0A1A2A" />
+  <path d="M8 23V10M24 23V10M8 16.5h16" stroke="#CBAA7C" stroke-width="1.9" stroke-linecap="square" />
+  <path d="M5 25.5h22" stroke="#CBAA7C" stroke-width="1.9" stroke-linecap="square" />
+</svg>
