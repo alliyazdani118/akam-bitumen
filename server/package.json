@@ -1,0 +1,16 @@
+{
+  "name": "akam-bitumen-api",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Small JSON API for AKAM BITUMEN CO. newsletter subscriptions and contact enquiries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "4.21.2",
+    "pg": "8.13.1"
+  }
+}
